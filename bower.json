@@ -5,7 +5,7 @@
     "ebuzz <erkin.buzz@gmail.com>"
   ],
   "description": "NUC Kalkan integration",
-  "main": "index.js",
+  "main": "sign.js",
   "keywords": [
     "nuc",
     "kalkan",
