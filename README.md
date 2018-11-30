@@ -1,2 +1,2 @@
 # kalkan
-Kalkan npm plugin
+Kalkan bower plugin
