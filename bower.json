@@ -11,7 +11,7 @@
     "kalkan",
     "sign"
   ],
-  "license": "Apache License 2.0",
+  "license": "Apache-2.0",
   "homepage": "https://github.com/erkinuzz/kalkan.git",
   "ignore": [
     "**/.*",
