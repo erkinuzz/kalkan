@@ -1,0 +1,26 @@
+{
+  "name": "kalkan",
+  "version": "1.0.0",
+  "authors": [
+    "ebuzz <erkin.buzz@gmail.com>"
+  ],
+  "description": "NUC Kalkan integration",
+  "main": "index.js",
+  "keywords": [
+    "nuc",
+    "kalkan",
+    "sign"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/erkinuzz/kalkan.git",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+   "dependencies": {
+        "jquery": ">=1.10.2"
+    }
+}
