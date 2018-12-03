@@ -1,11 +1,11 @@
 {
   "name": "kalkan",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "authors": [
     "ebuzz <erkin.buzz@gmail.com>"
   ],
   "description": "NUC Kalkan integration",
-  "main": "sign.js",
+  "main": "crypto_object.js",
   "keywords": [
     "nuc",
     "kalkan",
